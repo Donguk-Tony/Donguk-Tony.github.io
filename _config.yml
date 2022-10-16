@@ -4,6 +4,7 @@ title: 서동욱 개발일지
 email: sdwtony@kakao.com
 brand: 서동욱
 headline: Firmware Developer
+discord: Sunflower#7777
 description: > # this means to ignore newlines until "baseurl:"
   New Site
 baseurl: "" # the subpath of your site, e.g. /blog
